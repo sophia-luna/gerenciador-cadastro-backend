@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M0u7MVRiZrfTqNpg40hC4QUfGODkbgIhS6kjwGjW89g=",
+  "Source": "GC.WebAPI",
+  "BasePath": "_content/GC.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
